@@ -3,6 +3,9 @@
 copied here for central usage in public software documentation; 
 see https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/
 
+> [!CAUTION]
+> The filenames of horizontal combination marks are spelled `_horizonal_` instead of `_horizontal_`.
+
 ## Primary Combination Mark
 
 <picture>
